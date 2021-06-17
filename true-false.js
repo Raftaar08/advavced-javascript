@@ -6,7 +6,7 @@
 //null
 //NaN
 //truthy
-//0', ' ' []
+//'0', ' ' []
 
 let name = 12;
 
